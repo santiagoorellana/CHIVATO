@@ -1,7 +1,10 @@
-CHIVATO 1.3
+<H1>CHIVATO 1.3</H1>
 
-The CHIVATO app
+<H3>The CHIVATO app</H3>
 It is an application for monitoring the connection of storage devices to the computer (Memories, external drives, internal drives, CD, DVD, Phones). Very useful for controlling the business of copying packages and information in general. With its use you will be able to expand your business by employing other workers without the fear of being robbed. The program is protected by password (password) access so that only the owner of the business can control it. The main features of this version of the application are:
+
+
+![chivato](https://user-images.githubusercontent.com/59070402/151720760-ca068bc2-9f86-48b3-beea-d260530d461c.png)
 
 It shows in a list all the storage devices that have been connected to the computer and for each of these it shows:
 
@@ -18,6 +21,10 @@ It shows in a list all the storage devices that have been connected to the compu
 * Files that were copied to the device during connection.
 
 It allows you to view the list of devices by day, week, month or year, showing useful statistical data for business management in a window, such as:
+
+![estadisticas](https://user-images.githubusercontent.com/59070402/151720786-15c28976-0152-4cb2-b076-0f63f86a82c2.png)
+
+![estadisticas2](https://user-images.githubusercontent.com/59070402/151720793-c05c75d3-a09e-4d93-b3af-b10d4f3b419f.png)
 
 * Total number of devices according to their type.
 * Total Giga Bytes copied to all devices.
